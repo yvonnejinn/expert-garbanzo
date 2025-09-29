@@ -19,4 +19,23 @@
 - Matplotlib / Seaborn (for visualization)
 
 ## HOW TO RUN
-pip install -r requirements.txt
+1. **Install dependencies**:
+pip install
+
+pandas
+
+numpy
+
+openai
+
+matplotlib
+
+seaborn
+
+feedparser
+
+TextBlob
+
+2. **Follow notebook instructions** to preprocess data, generate summaries/keywords, compute metrics, and visualize results.
+
+jupyter notebook notebooks/text_processing.ipynb
